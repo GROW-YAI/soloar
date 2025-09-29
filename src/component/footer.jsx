@@ -99,7 +99,7 @@ const Footer = () => {
             <FaTiktok size={20} />
           </a>
           <a
-            href="https://www.instagram.com/afuomborga/"
+            href="https://www.instagram.com/afuomborga_innovation?igsh=MTl5YW52eXdqa2h5aA=="
             className="text-gray-400 hover:text-white transition duration-300"
             aria-label="Instagram"
             target="_blank"
@@ -114,17 +114,7 @@ const Footer = () => {
           <p>
             © {currentYear} Automated Irrigation Solution. All rights reserved.
           </p>
-          <p className="mt-2">
-            Made with ❤️{' '}
-            <a
-              href="https://github.com/RuthNyankum"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-white"
-            >
-              Ruth
-            </a>
-          </p>
+        
         </div>
       </div>
     </footer>
