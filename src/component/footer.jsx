@@ -18,7 +18,7 @@ const Footer = () => {
               className="w-16 h-auto transform hover:scale-105 transition-transform duration-300 rounded-lg shadow-lg"
             />
             <span className="text-xl font-bold text-white font-montserrat">
-              AfuomBorga Innovation
+              AfuomBorga Innovations
             </span>
           </div>
 
@@ -81,7 +81,7 @@ const Footer = () => {
         {/* Social Links */}
         <div className="flex justify-center space-x-4 mb-4">
           <a
-            href=" https://www.facebook.com/profile.php?id=61574065675462"
+            href="https://www.facebook.com/profile.php?id=61574065675462"
             className="text-gray-400 hover:text-white transition duration-300"
             aria-label="Facebook"
             target="_blank"
