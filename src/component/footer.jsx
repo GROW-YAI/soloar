@@ -18,7 +18,7 @@ const Footer = () => {
               className="w-16 h-auto transform hover:scale-105 transition-transform duration-300 rounded-lg shadow-lg"
             />
             <span className="text-xl font-bold text-white font-montserrat">
-              AfuomBorga Innovation
+              AfuomBorga Innovations
             </span>
           </div>
 
@@ -81,7 +81,7 @@ const Footer = () => {
         {/* Social Links */}
         <div className="flex justify-center space-x-4 mb-4">
           <a
-            href=" https://www.facebook.com/profile.php?id=61574065675462"
+            href="https://www.facebook.com/profile.php?id=61574065675462"
             className="text-gray-400 hover:text-white transition duration-300"
             aria-label="Facebook"
             target="_blank"
@@ -99,7 +99,7 @@ const Footer = () => {
             <FaTiktok size={20} />
           </a>
           <a
-            href="https://www.instagram.com/afuomborga/"
+            href="https://www.instagram.com/afuomborga_innovation?igsh=MTl5YW52eXdqa2h5aA=="
             className="text-gray-400 hover:text-white transition duration-300"
             aria-label="Instagram"
             target="_blank"
@@ -114,17 +114,7 @@ const Footer = () => {
           <p>
             © {currentYear} Automated Irrigation Solution. All rights reserved.
           </p>
-          <p className="mt-2">
-            Made with ❤️{' '}
-            <a
-              href="https://github.com/RuthNyankum"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-white"
-            >
-              Ruth
-            </a>
-          </p>
+        
         </div>
       </div>
     </footer>
